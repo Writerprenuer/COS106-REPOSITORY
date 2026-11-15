@@ -1,2 +1,0 @@
-contact.js
-script.js
